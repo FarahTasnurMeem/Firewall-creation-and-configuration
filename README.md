@@ -1,6 +1,6 @@
 # Lets build and configure firewall
 
-The main goal of this project is to configure my firwall in my Ubuntu using ufw. 
+The main goal of this project is to configure my firewall in my Ubuntu using ufw. 
 This setup will save my network from unauthorized access and potential threats.
 
 
