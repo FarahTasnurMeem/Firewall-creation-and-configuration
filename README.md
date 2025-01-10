@@ -3,6 +3,11 @@
 ## Project Overview
 In this project, I configured a firewall on my Ubuntu system using UFW (Uncomplicated Firewall) to enhance network security. The firewall setup aims to protect against unauthorized access and potential threats, ensuring a safer environment for my system.
 
+
+The main goal of this project is to configure my firewall in my Ubuntu using ufw. 
+This setup will save my network from unauthorized access and potential threats.
+
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Prerequisites](#prerequisites)
@@ -20,40 +25,10 @@ In this project, I configured a firewall on my Ubuntu system using UFW (Uncompli
    Updated the package list and installed any available updates.
    ```bash
    sudo apt update && sudo apt upgrade -y
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+2. **UFW Installation:**
+ Ensured UFW was installed on the system.
+sudo apt install ufw
 ---
-
-# Lets build and configure firewall
-
-The main goal of this project is to configure my firewall in my Ubuntu using ufw. 
-This setup will save my network from unauthorized access and potential threats.
 
 
 **#Rules applied:**
